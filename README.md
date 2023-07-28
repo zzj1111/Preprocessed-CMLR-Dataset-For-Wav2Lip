@@ -17,4 +17,4 @@ As the VIPA group declared, this dataset is public to universities and research 
 
 # More details
 
-If you find that it is hard for you to download CMLR from https://vipazoo.cn/CMLR.html, feel free to contact me for help. The Download speed is so Fxxking slow, because Baidu, an annoying company in China, limits the download speed for more money.
+If you find that it is hard for you to download CMLR from https://vipazoo.cn/CMLR.html, feel free to contact me for help. The download speed is so Fxxking slow, because Baidu, an annoying company in China, limits the download speed for more money.
