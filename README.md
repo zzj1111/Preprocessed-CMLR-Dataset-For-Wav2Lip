@@ -12,7 +12,7 @@ As the VIPA group declared, this dataset is public to universities and research 
 2. Unzip the package.
 3. cd to the directory of /s1 , /s2 etc.  For example, D:/news/s1
 4. run the Unpack.py, and the files in the subfolders will be moved to /s1
-5. run the Sync.py. You have to install FFmpeg before run it. The Sync.py is based on FFmpeg.
+5. run the Sync.py. You have to install FFmpeg before running it. The Sync.py is based on FFmpeg.
 6. Now you get the .mp4 files. Use Rename.py to rename them as 00001.mp4 etc. Then these .mp4 files could be used by Wav2Lip.
 
 # More details
